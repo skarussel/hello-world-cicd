@@ -1,3 +1,3 @@
 # hello-world-cicd
 
-A simple hello-world script, that runs few minutes and prints.
+A simple hello-world script, that runs few minutes and prints several logs.
